@@ -6,7 +6,8 @@
 
 ### Conteúdo
 
-- [ ] Aula 01 - Introdução ao Android - Android Studio e Emuladores - 03/08/2023
+- [x] Aula 01 - Introdução ao Android - Android Studio e Emuladores - 03/08/2023
+- [x] Aula 02 - Criando meu primeiro App - Etanol x Gasolina - 10/08/2023
 
 ### Tecnologias
 
