@@ -11,7 +11,10 @@
 - [x] Aula 03 - Criação de novas telas (activitys); Navegação entre telas; Envio E-mail - 17/08/2023
 - [x] Aula 04 - Consumindo uma API REST - JSON utilizando Threads - 31/08/2023
 - [x] Aula 05 - Consumindo uma API REST - JSON utilizando Threads - 14/09/2023
-- [ ] Aula 06 - Consumindo uma API REST - JSON utilizando Threads - 28/09/2023
+- [x] Aula 06 - Consumindo uma API REST - JSON utilizando Threads - 28/09/2023
+- [ ] Aula 07 - Criando App com Banco de Dados SQLite - 05/10/2023
+- [ ] Aula 08 - Criando App com Banco de Dados SQLite - 26/10/2023
+- [ ] Aula 09 - Criando App com Banco de Dados SQLite - 09/11/2023
 
 ### Tecnologias
 
