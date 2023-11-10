@@ -14,7 +14,7 @@
 - [x] Aula 06 - Consumindo uma API REST - JSON utilizando Threads - 28/09/2023
 - [x] Aula 07 - Criando App com Banco de Dados SQLite - 05/10/2023
 - [x] Aula 08 - Criando App com Banco de Dados SQLite - 26/10/2023
-- [ ] Aula 09 - Criando App com Banco de Dados SQLite - 09/11/2023
+- [x] Aula 09 - Criando App com Banco de Dados SQLite - 09/11/2023
 
 ### Tecnologias
 
